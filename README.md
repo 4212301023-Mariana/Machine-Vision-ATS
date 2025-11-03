@@ -63,7 +63,7 @@ The model achieves:
 
 A **confusion matrix** is plotted to visualize the predictions for all 26 classes (A–Z):  
 
-![Confusion Matrix](Image\Confusion_Matrix.png)
+![Confusion Matrix](Image/Confusion_Matrix.png)
 
 ---
 
