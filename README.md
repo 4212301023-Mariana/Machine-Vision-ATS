@@ -97,3 +97,7 @@ Most errors occur between visually similar letters, but overall, the model perfo
 
 ---
 
+## 💡 Program Explanation
+For further explanation about the programs contained in this notebook, you can watch the following video : [![Watch the video]](https://youtu.be/t6u5ZK1mJBI?si=c6xjRMOo9zbcmq4u)
+
+
